@@ -8,7 +8,7 @@ Speed ​​is a multithreading Class Library that will help Windows Forms devel
 
 ##Examples
 
-```VisualBasic
+```VB.net
 Dim multi As New Speed.MultiThreading(Me)
 
 multi.Run(Sub()
